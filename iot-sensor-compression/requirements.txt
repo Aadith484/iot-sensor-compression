@@ -1,5 +1,0 @@
-numpy
-tensorflow>=2.15
-paho-mqtt
-influxdb-client
-matplotlib
