@@ -1,0 +1,9 @@
+{
+  "windows": 3750,
+  "windows_transmitted": 2737,
+  "energy_baseline_mJ": 7982.23253728745,
+  "energy_adaptive_mJ": 1917.1805344910752,
+  "energy_reduction_pct": 75.9819007334685,
+  "end_to_end_accuracy_pct": 93.72519254684448,
+  "compression_ratio": 8.0
+}
